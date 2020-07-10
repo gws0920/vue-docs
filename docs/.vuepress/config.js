@@ -1,6 +1,7 @@
 module.exports = {
   title: '美摄SDK API文档',
   description: 'Hello, my friend!',
+  base: '',
   head: [
       ['link', {
           rel: 'icon',
